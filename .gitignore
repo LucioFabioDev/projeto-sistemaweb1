@@ -90,7 +90,7 @@ venv.bak/
 /site
 
 # mypy
-#.mypy_cache/
+.mypy_cache/
 
 # Sublime Text #
 *.tmlanguage.cache
